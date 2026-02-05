@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "tailwind:dev": "tailwindcss -i ./vitepress/src/style.css -o ./vitepress/theme/style.css --watch",
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview"

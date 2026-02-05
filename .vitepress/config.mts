@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "UTA Design System",
-  description: "UTA Design System",
+  description: "A unified system that ensures consistency, efficiency, and scalability across all products and platforms.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

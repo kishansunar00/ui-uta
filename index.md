@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "UTA Design System"
-  text: "UTA Design System"
-  tagline: My great project tagline
+  tagline: A unified system that ensures consistency, efficiency, and scalability across all products and platforms.
   actions:
     - theme: brand
       text: Markdown Examples
